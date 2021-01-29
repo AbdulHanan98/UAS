@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAQI,MARE,CAQF,MAAM,CAAA;EACF,UAAU,EAAE,OAAgB;CAe/B;;AAxBL,AAWY,MAXN,CAQF,MAAM,CAEF,UAAU,CACN,OAAO,CAAA;EACH,KAAK,EAAE,IAAI;CAUd;;AAtBb,AAgB4B,MAhBtB,CAQF,MAAM,CAEF,UAAU,CACN,OAAO,CAEH,SAAS,CACL,WAAW,CACP,SAAS,CACL,SAAS,CAAA;EACL,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/header/_header.scss",
+        "../scss/section/_tiga.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

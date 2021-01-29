@@ -1,0 +1,12 @@
+header .bawah {
+  background: #007aff;
+}
+
+header .bawah .container .navbar {
+  color: #fff;
+}
+
+header .bawah .container .navbar .collapse .navbar-nav .nav-item .nav-link {
+  font-size: 14px;
+}
+/*# sourceMappingURL=style.css.map */
